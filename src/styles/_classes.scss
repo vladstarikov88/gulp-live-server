@@ -1,0 +1,13 @@
+@import './variables';
+
+.bold {
+  font-weight: bold;
+}
+
+.italic {
+  font-style: italic;
+}
+
+.color-blue {
+  color: $blue;
+}
